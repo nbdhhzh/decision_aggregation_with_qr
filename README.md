@@ -1,7 +1,7 @@
 # Decision Aggregation under Quantal Response
 
 ## Overview
-This repository contains the implementation for the paper "Decision Aggregation under Quantology". The project includes:
+This repository contains the implementation for the paper "Decision Aggregation under Quantal Response". The project includes:
 
 1. Numerical analysis of decision aggregation mechanisms
 2. Empirical studies of decision-making behavior under quantal response models
